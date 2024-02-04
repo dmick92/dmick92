@@ -2,6 +2,7 @@
 
 - ❤️ Passion for building web apps and fun/cool tools 
 - 🔍 Always looking to learn new things and expand my existing knowledge
+- 🏗️ Currently focused on expanding my infrastructure knowledge
 
 ### Passionate Tech
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,planetscale,prisma,vercel,docker,bots)](https://skillicons.dev)
